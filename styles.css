@@ -1,0 +1,15 @@
+a {
+ font-family: 'Carrois Gothic SC', sans-serif;
+ /*text-decoration: none;*/
+ color:#595959;
+}
+a:visited {
+ color: #595959;
+ /*text-decoration: none;*/
+}
+body{
+ background-color: #e2e2dc;
+}
+.carrois {
+  font-family: 'Carrois Gothic SC', sans-serif;
+}
